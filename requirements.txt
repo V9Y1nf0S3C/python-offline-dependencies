@@ -1,0 +1,12 @@
+pyAutoGUI
+requests_file
+requests
+lxml
+jsbeautifier
+selenium
+setuptools
+httpx
+colorama
+termcolor
+pycryptodomex
+tkinterdnd2
